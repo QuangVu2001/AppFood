@@ -1,0 +1,36 @@
+[{"stream_name":"stderr","time":4.28154102,"data":"/opt/conda/lib/python3.7/site-packages/traitlets/traitlets.py:2755: FutureWarning: --Exporter.preprocessors=[\"nbconvert.preprocessors.ExtractOutputPreprocessor\"] for containers is deprecated in traitlets 5.0. You can pass `--Exporter.preprocessors item` ... multiple times to add items to a list.\n"}
+,{"stream_name":"stderr","time":4.281611117,"data":"  FutureWarning,\n"}
+,{"stream_name":"stderr","time":4.281621417,"data":"[NbConvertApp] Converting notebook __notebook__.ipynb to html\n"}
+,{"stream_name":"stderr","time":7.070433008,"data":"[NbConvertApp] Support files will be in __results___files/\n"}
+,{"stream_name":"stderr","time":7.070503358,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":7.070749967,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":7.070974585,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":7.071200825,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":7.071446501,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":7.07186419,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":7.072329005,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":7.072801368,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":7.073230779,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":7.073724789,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":7.074448204,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":7.074539579,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":7.074685319,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":7.074881979,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":7.075152631,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":7.075295746,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":7.07554654,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":7.075740363,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":7.076002465,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":7.076226213,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":7.076687905,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":7.076826713,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":7.077132236,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":7.077343763,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":7.077686816,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":7.077896195,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":7.078120517,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":7.078278734,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":7.078511931,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":7.078687692,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":7.079040814,"data":"[NbConvertApp] Writing 4961573 bytes to __results__.html\n"}
+]
